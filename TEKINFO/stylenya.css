@@ -1,0 +1,39 @@
+body{
+font-family : "Tektur", sans-serif;
+}
+.header {
+	background-color:sienna; 
+	text-align: center;
+	padding: 50px;
+	font-size:1.5em;
+	color:white;
+	}
+.sidebar{
+	background-color:lightblue;
+	width : 20%;
+	height :350px;
+	padding-left:20px;
+	padding-top:10px;
+	float:Left;
+	}
+	
+.link{
+	
+	color:white;
+}
+.main{
+	background-color: white;
+	width: 70%;
+	height : 350px;
+	float: Left;
+	padding-left: 35px;
+	padding-top: 10px;
+	
+	}
+.footer {
+	background-color:sienna; 
+	padding: 25px;
+	clear: both;
+	text-align:center;
+	color:white;
+	}
